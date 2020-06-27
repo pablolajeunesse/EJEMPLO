@@ -3,7 +3,6 @@ bqplot
 numpy
 pandas
 matplotlib
-pylab
 seaborn
 sklearn
 linear_model
